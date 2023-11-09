@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'JioType';
+    src: url('../fonts/JioType/JioType-Black.eot');
+    src: url('../fonts/JioType/JioType-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JioType/JioType-Black.woff2') format('woff2'),
+        url('../fonts/JioType/JioType-Black.woff') format('woff'),
+        url('../fonts/JioType/JioType-Black.ttf') format('truetype'),
+        url('../fonts/JioType/JioType-Black.svg#JioType-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'JioType';
+    src: url('../fonts/JioType/JioType-Light.eot');
+    src: url('../fonts/JioType/JioType-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JioType/JioType-Light.woff2') format('woff2'),
+        url('../fonts/JioType/JioType-Light.woff') format('woff'),
+        url('../fonts/JioType/JioType-Light.ttf') format('truetype'),
+        url('../fonts/JioType/JioType-Light.svg#JioType-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'JioType';
+    src: url('../fonts/JioType/JioType-Bold.eot');
+    src: url('../fonts/JioType/JioType-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JioType/JioType-Bold.woff2') format('woff2'),
+        url('../fonts/JioType/JioType-Bold.woff') format('woff'),
+        url('../fonts/JioType/JioType-Bold.ttf') format('truetype'),
+        url('../fonts/JioType/JioType-Bold.svg#JioType-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'JioType';
+    src: url('../fonts/JioType/JioType-Medium.eot');
+    src: url('../fonts/JioType/JioType-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JioType/JioType-Medium.woff2') format('woff2'),
+        url('../fonts/JioType/JioType-Medium.woff') format('woff'),
+        url('../fonts/JioType/JioType-Medium.ttf') format('truetype'),
+        url('../fonts/JioType/JioType-Medium.svg#JioType-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'JioType';
+    src: url('../fonts/JioType/JioType-MediumItalic.eot');
+    src: url('../fonts/JioType/JioType-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JioType/JioType-MediumItalic.woff2') format('woff2'),
+        url('../fonts/JioType/JioType-MediumItalic.woff') format('woff'),
+        url('../fonts/JioType/JioType-MediumItalic.ttf') format('truetype'),
+        url('../fonts/JioType/JioType-MediumItalic.svg#JioType-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'JioType';
+    src: url('../fonts/JioType/JioType-LightItalic.eot');
+    src: url('../fonts/JioType/JioType-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JioType/JioType-LightItalic.woff2') format('woff2'),
+        url('../fonts/JioType/JioType-LightItalic.woff') format('woff'),
+        url('../fonts/JioType/JioType-LightItalic.ttf') format('truetype'),
+        url('../fonts/JioType/JioType-LightItalic.svg#JioType-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}

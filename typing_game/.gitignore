@@ -1,0 +1,34 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# production
+/build
+
+ rilagm2020/
+
+# misc
+.DS_Store
+.env.development.local
+.env.test.local
+.env.production.local
+.history
+.project
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log*
+
+
+**.zip
+junit.xml
+
+src/token.js
+
+bundle.js
+package-lock.json
+yarn.lock
+
+perf
